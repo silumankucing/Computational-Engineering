@@ -1,1 +1,1 @@
-# Generatiive-Geometry-Code
+# Generative-Geometry-Code
