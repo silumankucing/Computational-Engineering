@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicoGK Example", "PicoGK Example.csproj", "{7A984F0F-63F0-55E4-3E45-879496E06CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A984F0F-63F0-55E4-3E45-879496E06CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A984F0F-63F0-55E4-3E45-879496E06CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A984F0F-63F0-55E4-3E45-879496E06CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A984F0F-63F0-55E4-3E45-879496E06CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D111FB4-3BD4-4775-B8DD-B08F8EBEF685}
+	EndGlobalSection
+EndGlobal
